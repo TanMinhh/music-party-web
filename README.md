@@ -3,6 +3,7 @@ Music Controller is a web application that allows multiple users to control a co
 
 # Features
 Room creation and joining management 
+
 Collaborative music queue control 
 Customizable guest playback permissions (skip votes threshold, pause/play authority) 
 Real-time room state synchronization 
